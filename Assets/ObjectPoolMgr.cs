@@ -31,7 +31,6 @@ public class ObjectPoolMgr : MonoBehaviour
 
 	public GameObject AllocObject (GameObject go, Vector3 position, Quaternion rotation)
 	{
-//		GameObject.ins
 		ObjectPool pool = GetPool (go.name);
 		return pool.Alloc (go, position, rotation);
 	}

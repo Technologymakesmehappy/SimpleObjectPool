@@ -1,10 +1,10 @@
 ﻿<Properties StartupItem="Assembly-CSharp.csproj">
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/TestScript.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/ObjectPoolMgr.cs">
     <Files>
       <File FileName="Assets/ObjectPoolMgr.cs" Line="25" Column="17" />
-      <File FileName="Assets/TestScript.cs" Line="22" Column="1" />
-      <File FileName="Assets/DeleteCube.cs" Line="24" Column="1" />
+      <File FileName="Assets/TestScript.cs" Line="1" Column="1" />
+      <File FileName="Assets/DeleteCube.cs" Line="1" Column="1" />
       <File FileName="Assets/ObjectPool.cs" Line="17" Column="41" />
     </Files>
   </MonoDevelop.Ide.Workbench>
