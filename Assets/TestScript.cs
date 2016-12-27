@@ -15,9 +15,7 @@ public class TestScript : MonoBehaviour
 	// Update is called once per frame
 	void Update ()
 	{
-		if (Input.GetMouseButtonDown (0)) {
-//			print ("111");
-//			GameObject.Instantiate (cubePrefab, Vector3.zero, Quaternion.identity);
+		if (Input.GetMouseButton (0)) {
 			GameObject go = ObjectPoolMgr.Instance.AllocObject (cubePrefab, Vector3.zero, Quaternion.identity);
 		}
 	}

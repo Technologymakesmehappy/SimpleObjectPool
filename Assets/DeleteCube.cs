@@ -17,7 +17,7 @@ public class DeleteCube : MonoBehaviour
 		
 	}
 
-	void OnCollisionEnter (Collision col)
+	void OnTriggerExit (Collider col)
 	{
 //		print (col.gameObject.name);
 		ObjectPoolMgr.Instance.RecycleObject (col.gameObject);
