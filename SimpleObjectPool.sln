@@ -1,7 +1,7 @@
+﻿
 Microsoft Visual Studio Solution File, Format Version 11.00
-# Visual Studio 2008
-
-Project("{BE5BC563-D1C7-F76F-2BF2-5350C5936B1B}") = "SimpleObjectPool", "Assembly-CSharp.csproj", "{E7787DC7-386A-5195-F77C-A73F565AA1D8}"
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimpleObjectPool", "Assembly-CSharp.csproj", "{E7787DC7-386A-5195-F77C-A73F565AA1D8}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
